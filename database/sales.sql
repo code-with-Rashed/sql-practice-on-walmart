@@ -1054,8 +1054,7 @@ INSERT INTO `sales` (`invoice_id`, `branch`, `city`, `customer_type`, `gender`, 
 ('895-03-6665', 'B', 'Mandalay', 'Normal', 'Female', 'Fashion accessories', 36.51, 9, 16.4295, 345.0195, '2019-02-16 00:00:00', '10:52:00', 'Cash', 328.59, 4.761904716, 16.4295, 4.2),
 ('895-66-0685', 'B', 'Mandalay', 'Member', 'Male', 'Food and beverages', 18.08, 3, 2.7120, 56.9520, '2019-03-05 00:00:00', '19:46:00', 'Ewallet', 54.24, 4.761904716, 2.7120, 8.0),
 ('896-34-0956', 'A', 'Yangon', 'Normal', 'Male', 'Fashion accessories', 21.32, 1, 1.0660, 22.3860, '2019-01-26 00:00:00', '12:43:00', 'Cash', 21.32, 4.761904716, 1.0660, 5.9),
-('898-04-2717', 'A', 'Yangon', 'Normal', 'Male', 'Fashion accessories', 76.40, 9, 34.3800, 721.9800, '2019-03-19 00:00:00', '15:49:00', 'Ewallet', 687.60, 4.761904716, 34.3800, 7.5),
-('Invoice ID', 'Branc', 'City', 'Customer type', 'Gender', 'Product line', 0.00, 0, 0.0000, 0.0000, '0000-00-00 00:00:00', '00:00:00', 'Payment', 0.00, 0.000000000, 0.0000, 0.0);
+('898-04-2717', 'A', 'Yangon', 'Normal', 'Male', 'Fashion accessories', 76.40, 9, 34.3800, 721.9800, '2019-03-19 00:00:00', '15:49:00', 'Ewallet', 687.60, 4.761904716, 34.3800, 7.5);
 
 --
 -- Indexes for dumped tables
