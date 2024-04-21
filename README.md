@@ -50,3 +50,9 @@ Creaate a database like : <strong>walmart</strong>
 11. What is the most common product line by gender ?
 
 12. What is the average rating of each product line ?
+
+## Sales
+1. Number of sales made in each time of the day per weekday
+2. Which of the customer types brings the most revenue ?
+3. Which city has the largest tax percent / VAT (Value Added Tax) ?
+4. Which Customer type pays the most in VAT ?
