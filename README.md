@@ -56,3 +56,15 @@ Creaate a database like : <strong>walmart</strong>
 2. Which of the customer types brings the most revenue ?
 3. Which city has the largest tax percent / VAT (Value Added Tax) ?
 4. Which Customer type pays the most in VAT ?
+
+## Customer
+1. How many unique customer types does the data have ?
+2. How many unique payment methods does the data have ?
+3. What is the most common customer type ?
+4. Which customer  type buys the most ?
+5. What is the gender of most of the customers ?
+6. What is the gender distribution per branch ?
+7. Which time of the day do customers give most rattings ?
+8. Which time of the day do customers give most rattings per branch ?
+9. Which day of the week has the best avg rattings ?
+10. Which day of the week has the best average rattings per branch ?
